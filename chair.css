@@ -1,0 +1,10 @@
+.object{
+    font-size: 20px;
+    border-radius: 20px;
+    width: 200px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
